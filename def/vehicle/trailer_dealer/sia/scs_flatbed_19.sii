@@ -8,6 +8,7 @@ trailer : .scs.flatbed_19.single_2.flatbed_w
 	accessories[]: .body
 	accessories[]: .chassis
 	accessories[]: .cargo
+	accessories[]: .xmas_lights
 
 	accessories[]: .tire1
 	accessories[]: .disc1
@@ -43,6 +44,11 @@ vehicle_accessory: .body
 vehicle_accessory : .cargo
 {
 	data_path: "/def/vehicle/trailer_cargo/xms_flatbed/xmas_gifts19.sii"
+}
+
+vehicle_addon_accessory: .xmas_lights
+{
+	data_path: "/def/vehicle/trailer/xms_flatbed/accessory/xmas_lights.sii"
 }
 
 vehicle_wheel_accessory: .tire1
