@@ -27,7 +27,7 @@ trailer : .scs.flatbed_19.single_2.flatbed_w
 
 vehicle_accessory: .data
 {
-	data_path: "/def/vehicle/trailer_owned/scs.flatbed/data.sii"
+	data_path: "/def/vehicle/trailer_owned/sia.flatbed/data.sii"
 }
 
 vehicle_accessory: .chassis
@@ -37,7 +37,7 @@ vehicle_accessory: .chassis
 
 vehicle_accessory: .body
 {
-	data_path: "/def/vehicle/trailer_owned/scs.flatbed/body/flatbed_19.sii"
+	data_path: "/def/vehicle/trailer_owned/sia.flatbed/body/flatbed_19.sii"
 }
 
 vehicle_accessory : .cargo

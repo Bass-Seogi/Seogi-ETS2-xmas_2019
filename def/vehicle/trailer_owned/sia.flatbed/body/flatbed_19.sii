@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_trailer_body_data : flatbed_19.scs.box.body
+accessory_trailer_body_data : flatbed_19.sia.box.body
 {
 	name: "Christmas Gift 2019"
 	price: 7019
@@ -27,17 +27,5 @@ accessory_trailer_body_data : flatbed_19.scs.box.body
 	# 7.8m body variants are smaller (count as x0.5)
 
 	mass: 0
-
-	# visual data
-
-	#detail_model: "/vehicle/trailer_owned/scs_box/body/curtain_sider_136.pmd"
-	model: "/vehicle/wheel/empty/empty_10cm.pmd" #Just an invisible model
-	# lods[]: ""
-	# collision: "/vehicle/trailer_owned/scs_box/body/curtain_sider_136.pmc"
-	# variant: 
-	# look
-
-	defaults[]: "/def/vehicle/trailer_owned/scs.box/accessory/markers/simple_c.sii"
-	#overrides[]: "/def/vehicle/trailer_owned/scs.box/accessory/trlr_cables/d_curtain.sii"
 }
 }
