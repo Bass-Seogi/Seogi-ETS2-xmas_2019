@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : .xmas_gifts
+{
+	model: "/vehicle/trailer_eu/xms_flatbed/cargo/xmas_gifts20_krone.pmd"
+	lods[]: "/vehicle/trailer_eu/xms_flatbed/cargo/xmas_gifts20_krone.pmd"
+	collision: "/vehicle/trailer_eu/xms_flatbed/cargo/xmas_gifts20_krone.pmc"
+ 
+	variant: default
+	look: default
+}
+}
+

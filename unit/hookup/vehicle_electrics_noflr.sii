@@ -1,0 +1,24 @@
+SiiNunit
+{
+flare_vehicle: flare.vehicle.electrics.orangelnoflr
+{
+	
+	dir_type: wide
+	type: spot
+	setup: candela_hue_saturation
+	
+	light_type: electrics
+	diffuse_color: (4, 29, 100)
+	specular_color: (4, 38, 100)
+	range: 1.6
+	forward_distance: false
+	inner_angle: 80
+	outer_angle: 100
+	fade_distance: 50
+	fade_span: 50
+
+	
+
+@include "vehicle/flare/vehicle_bulb_type_incandescent.sui"
+}
+}

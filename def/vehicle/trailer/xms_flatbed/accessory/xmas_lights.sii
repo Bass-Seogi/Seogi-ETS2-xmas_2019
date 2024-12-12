@@ -1,0 +1,7 @@
+SiiNunit
+{
+accessory_addon_data : xmas_lights.xms_flatbed.electrics
+{
+	exterior_model: "/vehicle/trailer_eu/xms_flatbed/xmas_lamps.pmd"
+}
+}

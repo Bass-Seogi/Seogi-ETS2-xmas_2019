@@ -1,0 +1,16 @@
+cargo_data: cargo.xmsgifts
+{
+	name: "@@cn_gifts@@"
+	fragility: 0.3
+	minimum_distance: 240
+	group[]: containers
+	prob_coef: 4
+	volume: 1
+	mass: 235.6
+	unit_reward_per_km: 0.375
+	unit_load_time: 30
+	body_types[]: flatbed
+	body_types[]: flatbed_cont
+	body_types[]: _mod_masgits
+	body_types[]: _mod_masgi20
+}

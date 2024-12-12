@@ -1,0 +1,9 @@
+material : "eut2.light.tex.rfx" {
+	texture[0] : "/vehicle/trailer_eu/xms_flatbed/light_decals.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	aux[5] : { 1000 , 500 }
+	diffuse : { 0.318547 , 0.318547 , 0.318547 }
+	env_factor : { 0 , 0 , 0 }
+	specular : { 0 , 0 , 0 }
+}

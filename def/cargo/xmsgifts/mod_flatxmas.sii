@@ -1,0 +1,15 @@
+SiiNunit
+{
+trailer_def : trailer_def.xmsgifts.mod_flatxmas
+{
+	trailer: trailer.mod_flatxmas
+	gross_trailer_weight_limit: 29361
+	chassis_mass: 5800
+	body_mass: 0
+	axles: 3
+	volume: 100
+	body_type: _mod_masgits
+
+	mass_ratio[]: 1
+}
+}

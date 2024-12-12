@@ -1,0 +1,119 @@
+SiiNunit
+{
+trailer : .scs.flatbed_20.single_2.flatbed_w
+{
+	trailer_definition: trailer_def.scs.flatbed.single_3s2.flatbed_s
+
+	accessories[]: .data
+	accessories[]: .body
+	accessories[]: .chassis
+	accessories[]: .cargo
+
+	accessories[]: .tire1
+	accessories[]: .disc1
+	accessories[]: .hub1
+	accessories[]: .nuts1
+
+	accessories[]: .tire2
+	accessories[]: .disc2
+	accessories[]: .hub2
+	accessories[]: .nuts2
+
+	accessories[]: .tire3
+	accessories[]: .disc3
+	accessories[]: .hub3
+	accessories[]: .nuts3
+}
+
+vehicle_accessory: .data
+{
+	data_path: "/def/vehicle/trailer_owned/scs.flatbed/data.sii"
+}
+
+vehicle_accessory: .chassis
+{
+	data_path: "/def/vehicle/trailer/xms_flatbed/chassis_xmas.sii"
+}
+
+vehicle_accessory: .body
+{
+	data_path: "/def/vehicle/trailer_owned/scs.flatbed/body/flatbed_20.sii"
+}
+
+vehicle_accessory : .cargo
+{
+	data_path: "/def/vehicle/trailer_cargo/xms_flatbed/xmas_gifts20.sii"
+}
+
+vehicle_wheel_accessory: .tire1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory: .disc1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01_matt_gray.sii"
+}
+
+vehicle_wheel_accessory: .hub1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+}
+
+vehicle_wheel_accessory: .nuts1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+}
+
+vehicle_wheel_accessory: .tire2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory: .disc2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01_matt_gray.sii"
+}
+
+vehicle_wheel_accessory: .hub2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+}
+
+vehicle_wheel_accessory: .nuts2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+}
+
+vehicle_wheel_accessory: .tire3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory: .disc3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01_matt_gray.sii"
+}
+
+vehicle_wheel_accessory: .hub3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+}
+
+vehicle_wheel_accessory: .nuts3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+}
+}

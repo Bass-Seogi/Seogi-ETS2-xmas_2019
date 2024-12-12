@@ -1,0 +1,11 @@
+SiiNunit
+{
+cargo_model_match : .scs_flatbed
+{
+	compatible_body[]: "/def/vehicle/trailer/dbl_flatbed/flatbed_short.sii"
+	compatible_body[]: "/def/vehicle/trailer/dbl_flatbed/flatbed_cont_short.sii"
+	compatible_body[]: "/def/vehicle/trailer/dbl_flatbed/flatbed_bd.sii"
+	compatible_body[]: "/def/vehicle/trailer/dbl_flatbed/flatbed_cont_bd.sii"
+	data_path[]: "/def/vehicle/trailer_cargo/xms_flatbed/xmas_gifts20_short.sii"
+}
+}
